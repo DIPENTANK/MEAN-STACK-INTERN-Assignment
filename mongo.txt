@@ -1,0 +1,1 @@
+mongodb+srv://dipen:<password>@cluster0.jimoz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
